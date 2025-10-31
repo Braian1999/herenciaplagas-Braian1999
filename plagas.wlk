@@ -12,6 +12,7 @@ class Plagas {
     }
 }
 
+
 class Cucarachas inherits Plagas {
     var pesoPromedio
     method pesoPromedio() = pesoPromedio
